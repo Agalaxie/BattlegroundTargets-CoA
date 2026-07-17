@@ -27,7 +27,7 @@ Enemy health can only update when the WoW client learns it, for example from a t
 
 - Original BattlegroundTargets by kunda.
 - 3.3.5 port by Exad / [BGT-Epoch](https://github.com/MCribari/BGT-Epoch).
-- Conquest of Azeroth compatibility package by **Airmax & Codex**.
+- Conquest of Azeroth compatibility package by **Airmax**.
 
 ## License
 
