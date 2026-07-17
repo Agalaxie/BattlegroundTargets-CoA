@@ -1,0 +1,26 @@
+﻿## Interface: 30300
+## Author: Exad, CoA compatibility package by Airmax & Codex
+## Title: BattlegroundTargets - Conquest of Azeroth
+## Notes: Battleground enemy target frames for Conquest of Azeroth (Ascension 3.3.5).
+## Version: 1.1.1-coa
+## SavedVariables: BattlegroundTargets_Options
+## X-Curse-Packaged-Version: 1.0.0
+## X-Curse-Project-Name: BattlegroundTargets
+## X-Curse-Project-ID: battlegroundtargets
+
+BattlegroundTargets-localized-bgnames.lua
+BattlegroundTargets-localized-flag.lua
+BattlegroundTargets-localized-racenames.lua
+
+BattlegroundTargets-localization-enUS.lua
+BattlegroundTargets-localization-deDE.lua
+BattlegroundTargets-localization-esES.lua
+BattlegroundTargets-localization-esMX.lua
+BattlegroundTargets-localization-frFR.lua
+BattlegroundTargets-localization-koKR.lua
+BattlegroundTargets-localization-ptBR.lua
+BattlegroundTargets-localization-ruRU.lua
+BattlegroundTargets-localization-zhCN.lua
+BattlegroundTargets-localization-zhTW.lua
+
+BattlegroundTargets.lua
