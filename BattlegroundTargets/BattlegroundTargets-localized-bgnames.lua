@@ -95,3 +95,9 @@ end
 -- Conquest of Azeroth custom battleground.  The queue name is supplied in
 -- English by the Ascension client, including when another UI locale is used.
 BattlegroundTargets_BGNames["Southshore vs. Tarren Mill"] = "Southshore vs. Tarren Mill";
+-- Later battlegrounds and Ascension queues are supplied in English by the
+-- client, including when another UI locale is used.
+BattlegroundTargets_BGNames["The Battle for Gilneas"] = "The Battle for Gilneas";
+BattlegroundTargets_BGNames["Twin Peaks"] = "Twin Peaks";
+BattlegroundTargets_BGNames["Temple of Kotmogu"] = "Temple of Kotmogu";
+BattlegroundTargets_BGNames["The Temple of Kotmogu"] = "The Temple of Kotmogu";

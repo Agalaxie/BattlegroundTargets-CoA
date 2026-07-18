@@ -255,7 +255,9 @@ local bgSize = {
 	["Strand of the Ancients"] = 15,
 	["Isle of Conquest"] = 40,
 	["The Battle for Gilneas"] = 10,
-	["Twin Peaks"] = 10,
+	["Twin Peaks"] = 15,
+	["Temple of Kotmogu"] = 15,
+	["The Temple of Kotmogu"] = 15,
 	["Southshore vs. Tarren Mill"] = 40,
 };
 

@@ -2,7 +2,7 @@
 ## Author: Exad, CoA compatibility package by Airmax & Codex
 ## Title: BattlegroundTargets - Conquest of Azeroth
 ## Notes: Battleground enemy target frames for Conquest of Azeroth (Ascension 3.3.5).
-## Version: 1.1.1-coa
+## Version: 1.1.2-coa
 ## SavedVariables: BattlegroundTargets_Options
 ## X-Curse-Packaged-Version: 1.0.0
 ## X-Curse-Project-Name: BattlegroundTargets
