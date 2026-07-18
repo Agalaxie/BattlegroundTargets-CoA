@@ -2,7 +2,7 @@
 
 Battleground enemy target frames for Ascension's **Conquest of Azeroth** 3.3.5 client.
 
-![BattlegroundTargets working in Eye of the Storm](docs/eye-of-the-storm-live-test.png)
+![BattlegroundTargets working live in Warsong Gulch](docs/bgt-coa-live-test.jpg)
 
 ## Features
 
