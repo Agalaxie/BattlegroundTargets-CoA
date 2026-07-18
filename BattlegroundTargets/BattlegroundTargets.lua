@@ -268,7 +268,8 @@ local bgSizeINT = {
 };
 
 local flagBG = {
-	["Warsong Gulch"] = 1
+	["Warsong Gulch"] = 1,
+	["Twin Peaks"] = 1,
 };
 
 local flagIDs = {
@@ -5081,11 +5082,11 @@ function BattlegroundTargets:IsBattleground()
 			BattlegroundTargets:RegisterEvent("PLAYER_FOCUS_CHANGED");
 		end
 
-		if(OPT.ButtonShowFlag[currentSize]) then
-			if(currentSize == 10) then
-				BattlegroundTargets:RegisterEvent("CHAT_MSG_BG_SYSTEM_HORDE");
-				BattlegroundTargets:RegisterEvent("CHAT_MSG_BG_SYSTEM_ALLIANCE");
-			end
+	if(OPT.ButtonShowFlag[currentSize]) then
+		if(isFlagBG > 0) then
+			BattlegroundTargets:RegisterEvent("CHAT_MSG_BG_SYSTEM_HORDE");
+			BattlegroundTargets:RegisterEvent("CHAT_MSG_BG_SYSTEM_ALLIANCE");
+		end
 		end
 		
 		if(OPT.ButtonShowAssist[currentSize]) then
